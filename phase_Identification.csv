@@ -1,0 +1,22 @@
+Index,phase X,phase Y,phase Z
+0,Load8,Load1,Load2
+1,Load12,Load3,Load6
+2,Load16,Load4,Load7
+3,Load17,Load5,Load10
+4,Load18,Load9,Load11
+5,Load19,Load14,Load13
+6,Load24,Load20,Load15
+7,Load27,Load21,Load23
+8,Load28,Load22,Load26
+9,Load32,Load25,Load35
+10,Load33,Load29,Load36
+11,Load39,Load30,Load37
+12,Load42,Load31,Load38
+13,Load43,Load34,Load40
+14,Load47,Load46,Load41
+15,,Load48,Load44
+16,,Load49,Load45
+17,,Load51,Load50
+18,,Load52,Load53
+19,,Load54,
+20,,Load55,

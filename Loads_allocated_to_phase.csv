@@ -1,0 +1,22 @@
+Index,phase X,phase Y,phase X
+0,voltage_load21,voltage_load6,voltage_load16
+1,voltage_load22,voltage_load2,voltage_load27
+2,voltage_load9,voltage_load35,voltage_load33
+3,voltage_load51,voltage_load13,voltage_load17
+4,voltage_load3,voltage_load36,voltage_load32
+5,voltage_load34,voltage_load44,voltage_load42
+6,voltage_load25,voltage_load23,voltage_load8
+7,voltage_load1,voltage_load26,voltage_load28
+8,voltage_load5,voltage_load41,voltage_load12
+9,voltage_load52,voltage_load37,voltage_load24
+10,votlage_load46,voltage_load38,voltage_load43
+11,voltage_load30,voltage_load53,voltage_load18
+12,voltage_load29,voltage_load7,voltage_load39
+13,voltage_load48,voltage_load45,voltage_load19
+14,voltage_load55,voltage_load10,voltage_load47
+15,voltage_load20,votlage_load40,
+16,voltage_load4,voltage_load11,
+17,voltage_load54,voltage_load15,
+18,voltage_load49,voltage_load50,
+19,voltage_load14,,
+20,voltage_load31,,
